@@ -1,7 +1,7 @@
 function ContactUs(){
     return(
         <>
-        <h1 style={{color:"red"}}>This is ContactUs page...</h1>
+        <h1 style={{color:"red"}}>contactus page..........</h1>
         <p>welcome to hyderabad</p>
         </>
     )
